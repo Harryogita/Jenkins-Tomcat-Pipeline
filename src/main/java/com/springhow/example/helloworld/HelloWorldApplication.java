@@ -24,7 +24,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
     @RequestMapping("/")
     String helloWorld() {
         return "******Hello All Techz !! I am glad and welcome you to my first Jenkins-Tomcat based CI/CD pipeline********";
-        return " #######This project is just to showcase POWER OF JENKINS in CI/CD Modal#########" ;
+      
     
     }
 
